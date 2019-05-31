@@ -1,0 +1,5 @@
+ChkAcctID	ChkAcctBal	OverdraftFlag	SvAcctID	SvAcctBal	SvIntrst	PIN
+7777	        10230.00	      Y	        1212	        14500000.87	.05	        112233
+8888	        50230.00	      Y	        1313	        245000.87	.04	        223344
+9999	        60230.00	      Y	        1414	        3450.87	        .03	        445566
+
